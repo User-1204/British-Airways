@@ -37,17 +37,6 @@ This project was developed as part of the **British Airways Virtual Data Science
 
 ---
 
-## Project Structure
-
-booking-completion-prediction/
-│
-├── booking_model.ipynb # Main analysis notebook
-├── PowerPoint summary.pptx # Summary slide for stakeholders
-├── customer_booking.csv #dataset
-├── README.md # Project documentation
-
----
-
 ## Tools & Technologies Used
 
 - Python 3.8+
