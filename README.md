@@ -116,17 +116,6 @@ A professional summary slide was created to present the model and insights to st
 
 ---
 
-## How to Run This Project
-
-```bash
-git clone https://github.com/your-username/booking-completion-prediction.git
-cd booking-completion-prediction
-pip install pandas numpy matplotlib seaborn scikit-learn
-jupyter notebook booking_model.ipynb
-```
-
----
-
 ## Note
 
 This project is a portfolio piece from the British Airways x Forage Virtual Experience. Not affiliated with actual British Airways operations.
